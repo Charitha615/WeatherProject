@@ -56,7 +56,7 @@ const App = () => {
         </View>
         <View style={styles.sensorCard}>
           <MaterialCommunityIcons name="water-percent" size={30} color="#27AE60" />
-          <Text style={styles.sensorText}>Hmd{"\n"}53%</Text>
+          <Text style={styles.sensorText}>Humidity{"\n"}53%</Text>
         </View>
         <View style={styles.sensorCard}>
           <MaterialCommunityIcons name="weather-rainy" size={30} color="#7D3C98" />
